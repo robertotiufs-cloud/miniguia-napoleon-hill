@@ -20,7 +20,7 @@ As fontes selecionadas para estudo foram:
 1. [Napoleon Hill – Wikipédia](https://pt.wikipedia.org/wiki/Napoleon_Hill)    
 2. Livro: A Lei do Triunfo (1928)
 3. Livro: Quem Pensa Enriquece (Pense e Enriqueça) (1937)
-4. Livro: Como vender seu caminho pela vida  
+4. Livro: Como vender seu caminho pela vida (1941)
 5. Livro: Mais Esperto que o Diabo (1948)
 
 ---
@@ -45,7 +45,7 @@ Durante o processo, foram elaborados e testados diferentes prompts para extrair 
 
 ### Resumos Estruturados
 - **Biografia**: Napoleon Hill (1883–1970) foi escritor norte-americano, considerado o pai da literatura de autoajuda. Inspirado por Andrew Carnegie, dedicou 20 anos a estudar pessoas de sucesso.  
-- **Obras principais**: *A Lei do Triunfo* (1928), *Pense e Enriqueça* (1937), *Mais Esperto que o Diabo* (1938, publicado em 2011).  
+- **Obras principais**: *A Lei do Triunfo* (1928), *Pense e Enriqueça* (1937), *Como vencer seu caminha pela vida* (1941), *Mais Esperto que o Diabo* (1938, publicado em 2011).  
 - **Filosofia central**: "O que a mente do homem pode conceber e acreditar, pode ser alcançado."  
 - **Princípios da Lei do Triunfo**: 16 fundamentos que incluem objetivo definido, autoconfiança, cooperação, persistência e a regra de ouro.  
 
