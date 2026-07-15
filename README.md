@@ -19,9 +19,8 @@ O tema escolhido foi: **Napoleon Hill e sua filosofia do sucesso**.
 As fontes selecionadas para estudo foram:  
 1. [Napoleon Hill – Wikipédia](https://pt.wikipedia.org/wiki/Napoleon_Hill)  
 2. [Brasil Escola – Quem foi Napoleon Hill](https://brasilescola.uol.com.br/biografia/napoleon-hill.htm)  
-3. [Resumo: A Lei do Triunfo – LinkedIn](https://www.linkedin.com/pulse/resumo-a-lei-do-triunfo-napoleon-hill)  
-4. Livro: *A Lei do Triunfo* (1928)  
-5. Livro: *Mais Esperto que o Diabo* (1938, publicado em 2011)  
+3. Livro: *A Lei do Triunfo* (1928)  
+4. Livro: *Mais Esperto que o Diabo* (1938, publicado em 2011)  
 
 ---
 
